@@ -47,5 +47,5 @@ Una vez configurado, puedes usar el clúster para procesamiento de datos masivos
 
 ---
 
-**Autor:** [Tu Nombre]  
+**Autor:** Sergio García 
 **Licencia:** MIT
